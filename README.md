@@ -3,11 +3,11 @@
 👩🏻‍🎓 Studying Computer Science Engineering and Data Science!<br/>
 💭 Currently learning about Data Science and Machine Learning!<br/>
 
-## 🙋‍♂️ About me
+#🙋‍♂️ About me
  I am from Kolkata, India. I am a big fan and expert at all things Data Science + ML and Python + Java, respectively. Always learning more and more new things, currently its GoLang and Javascript. When I am not decimating bugs whilst building dreams, you will find me at the Dojo🥋. I am always in a learning mode, so feel free to contact me on Discord if you have any ideas about my projects that you see here. 
  
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<!--![Ranadeep Laskar](https://github-readme-stats.vercel.app/api?username=ranl703&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>>
+<!--![Ranadeep Laskar](https://github-readme-stats.vercel.app/api?username=ranl703&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
