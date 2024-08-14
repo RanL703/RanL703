@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ranadeep!
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech!<br/>
-👩🏻‍🎓 Studying Computer Science Engineering and Data Science!<br/>
+👩🏻‍🎓 Studying Computer Science Engineering in AI and Machine Learning!<br/>
 💭 Currently learning about Data Science and Machine Learning!<br/>
 
 # 🙋‍♂️ About me
