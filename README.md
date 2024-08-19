@@ -4,9 +4,11 @@
 💭 Currently learning about Data Science and Machine Learning!<br/>
 
 # 🙋‍♂️ About me
- I am from Kolkata, India. I am a big fan and expert at all things Data Science + ML with Python and SQL. I am always in a learning mode. Currently I am learning, Kotlin and Javascript. 
- When I am not decimating bugs whilst building dreams, you will find me at the Dojo🥋. Feel free to contact me about any ideas you may have regarding any projects and repositories you see here.
+ I am from Kolkata, India. I am a big fan and expert at all things Data Science and Machine Learning with Python and PostgreSQL, even so, always trying to do better. As of now, I am also pursuing Computer Science Engineering in AI and Machine Learning from Techno India University, Kolkata.
  
+ I am always in a learning mode. Currently I am studying DSA with Java. I want to create an impact with the work that I do which is why I have first started coding by solving some real life problems or inconveniences with code. I always keep exploring more and more around the work that I do. I try to do 10% better with each day.
+
+When I am not decimating bugs whilst building dreams, you will find me at the Dojo or Speed-solving puzzles!
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![Ranadeep Laskar](https://github-readme-stats.vercel.app/api?username=ranl703&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
