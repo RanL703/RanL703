@@ -4,9 +4,10 @@
 💭 Currently learning about Data Science and Machine Learning!<br/>
 
 # 🙋‍♂️ About me
- I am from Kolkata, India. I am a big fan and expert at all things Data Science and Machine Learning with Python and PostgreSQL, even so, always trying to do better. As of now, I am also pursuing Computer Science Engineering in AI and Machine Learning from Techno India University, Kolkata.
- 
- I am always in a learning mode. Currently I am studying DSA with Java. I want to create an impact with the work that I do which is why I have first started coding by solving some real life problems or inconveniences with code. I always keep exploring more and more around the work that I do. I try to do 10% better with each day.
+I am a Software Developer with interest in Data Science and Machine Learning, particularly with Python and PostgreSQL, which I am always striving to improve at. Currently, I'm pursuing a degree in Computer Science Engineering with a focus on AI and Machine Learning at Techno India University, Kolkata.
+I'm constantly in learning mode, and right now, I'm studying Data Structures and Algorithms (DSA) with Java. 
+
+I aim to create a significant impact with my work, which is why I started coding by solving my own real-life problems or inconveniences through code. I make it a point to continuously explore and improve in the areas I work on, aiming to do 10% better each day.
 
 When I am not decimating bugs whilst building dreams, you will find me at the Dojo or Speed-solving puzzles!
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
