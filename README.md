@@ -5,7 +5,7 @@
 
 # 🙋‍♂️ About me
 I am a Software Developer with interest in Data Science and Machine Learning, particularly with Python and PostgreSQL, which I am always striving to improve at. Currently, I'm pursuing a degree in Computer Science Engineering with a focus on AI and Machine Learning at Techno India University, Kolkata.
-I'm constantly in learning mode, and right now, I'm studying Data Structures and Algorithms (DSA) with Java. 
+I'm constantly in learning mode, and right now, I'm working on my pet project AgentOS that I wish to scale someday. 
 
 I aim to create a significant impact with my work, which is why I started coding by solving my own real-life problems or inconveniences through code. I make it a point to continuously explore and improve in the areas I work on, aiming to do 10% better each day.
 
