@@ -3,8 +3,15 @@
 <br>👩🏻‍🎓 Studying Computer Science Engineering in AI and Machine Learning!<br/>
 <br>💭 Currently learning about Data Science and Machine Learning!<br/><br>
 # 🙋‍♂️ About me
-I am a Software Developer with interest in Data Science and Machine Learning, particularly with Python and PostgreSQL, which I am always striving to improve at. Currently, I'm pursuing a degree in Computer Science Engineering with a focus on AI and Machine Learning at Techno India University, Kolkata.<br>I'm constantly in learning mode, and right now, I'm working on my pet project AgentOS that I wish to scale someday.
-I aim to create a significant impact with my work, which is why I started coding by solving my own real-life problems or inconveniences through code. I make it a point to continuously explore and improve in the areas I work on, aiming to do 10% better each day.<br><br>When I am not decimating bugs whilst building dreams, you will find me at the Dojo or Speed-solving puzzles!
+I’m a Software Developer with a deep passion for Data Science, Machine Learning, and AI, particularly leveraging Python and PostgreSQL to build impactful solutions. Currently, I’m pursuing a degree in Computer Science Engineering with a specialization in AI and Machine Learning at Techno India University, Kolkata.
+<br/><br>
+I thrive on solving real-world problems through code and continuously push myself to improve—striving to be 10% better every day. I’ve worked on projects spanning Retrieval-Augmented Generation (RAG), face recognition, stock market prediction, and chatbot development, and I actively explore LLM fine-tuning, cloud computing, and Kubernetes.
+<br/><br>
+Right now, I’m refining my AgentOS project, an operating system and framework for building and running AI Agents. I aspire to scale into something significant. Beyond that, I’ve built a RAG-based chatbot for nutritional insights, an apartment-finding bot using web scraping and PostgreSQL, and even experimented with IoT-powered AI assistants.
+<br/><br>
+When I’m not immersed in debugging or building innovative solutions, you’ll likely find me at the Dojo or speed-solving puzzles—both of which fuel my drive for precision and problem-solving.
+<br/><br>
+Always open to collaborations, discussions, and new challenges—feel free to reach out!
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats --><!--![Ranadeep Laskar](https://github-readme-stats.vercel.app/api?username=ranl703&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SXVPtxx3uv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranadeep-laskar-b50570322/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RanadeepMCPE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/this_is_ranl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laskarranadeep7@gmail.com) 
