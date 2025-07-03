@@ -3,7 +3,7 @@
 <br>👩🏻‍🎓 2nd year in a B.Tech CSE in AI/ML degree<br/>
 <br>💭 Currently learning Reinforcement Learning on the HF Deep RL course<br/><br>
 # 🙋‍♂️ About me
-I’m an AI Developer with a deep passion for Data Science, Machine Learning, and AI, particularly leveraging Python, Typescript and mostly custom Agentic Frameworks to build impactful solutions. Currently, I’m pursuing a degree in Computer Science Engineering with a specialization in AI and Machine Learning at Techno India University, Kolkata.
+I’m an AI Developer with a deep passion for Data Science, Machine Learning, and AI, particularly leveraging Python, Typescript and mostly custom Agentic Frameworks to build impactful solutions. I'm currently pursuing a degree in CSE(AI/ML) at Techno India University, Kolkata. 
 <br/><br>
 I solve real-world problems through code and continuously push myself to improve to be 10% better every day. I’ve worked on projects spanning Retrieval-Augmented Generation (RAG), ML, Computer Vision, and I actively explore LLM fine-tuning, cloud computing, and Kubernetes.
 <br/><br>
