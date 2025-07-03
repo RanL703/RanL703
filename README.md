@@ -5,7 +5,7 @@
 # 🙋‍♂️ About me
 I’m an AI Developer with a deep passion for Data Science, Machine Learning, and AI, particularly leveraging Python, Typescript and mostly custom Agentic Frameworks to build impactful solutions. I'm currently pursuing a degree in CSE(AI/ML) at Techno India University, Kolkata. 
 <br/><br>
-I solve real-world problems through code and continuously push myself to improve to be 10% better every day. I’ve worked on projects spanning Retrieval-Augmented Generation (RAG), ML, Computer Vision, and I actively explore LLM fine-tuning, cloud computing, and Kubernetes.
+I solve real-world problems through code and continuously push myself to improve to be 10% better every day. I’ve worked on projects spanning Retrieval-Augmented Generation (RAG), ML, Computer Vision, and I actively explore LLM fine-tuning, AI Agents and Deep Reinforced Agents.
 <br/><br>
 Right now, I’m building unicode, a CLI tool that aims to serve all needs of the codeonterm community. I also started my own org called theagentic.
 <br/><br>
