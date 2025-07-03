@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ranadeep!
-<br>👩🏻‍💻 Software Developer sharing about my journey and learnings in tech!<br/>
-<br>👩🏻‍🎓 Studying Computer Science Engineering in AI and Machine Learning!<br/>
-<br>💭 Currently learning about Data Science and Machine Learning!<br/><br>
+<br>👩🏻‍💻 AI Developer<br/>
+<br>👩🏻‍🎓 2nd year in a B.Tech CSE in AI/ML degree<br/>
+<br>💭 Currently learning Reinforcement Learning on the HF Deep RL course<br/><br>
 # 🙋‍♂️ About me
 I’m a Software Developer with a deep passion for Data Science, Machine Learning, and AI, particularly leveraging Python and PostgreSQL to build impactful solutions. Currently, I’m pursuing a degree in Computer Science Engineering with a specialization in AI and Machine Learning at Techno India University, Kolkata.
 <br/><br>
@@ -9,9 +9,8 @@ I solve real-world problems through code and continuously push myself to improve
 <br/><br>
 Right now, I’m building unicode, a CLI tool that aims to serve all needs of the codeonterm community. I also started my own org called theagentic.
 <br/><br>
-When I’m not immersed in debugging or building innovative solutions, you’ll likely find me at the Dojo or speed-solving puzzles—both of which fuel my drive for precision and problem-solving.
+Also training in shotokan karate to help think.
 <br/><br>
-Always open to collaborations, discussions, and new challenges—feel free to reach out!
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats --><!--![Ranadeep Laskar](https://github-readme-stats.vercel.app/api?username=ranl703&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SXVPtxx3uv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranadeep-laskar/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RanadeepMCPE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/this_is_ranl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laskarranadeep7@gmail.com) 
