@@ -7,7 +7,7 @@ I’m a Software Developer with a deep passion for Data Science, Machine Learnin
 <br/><br>
 I solve real-world problems through code and continuously push myself to improve to be 10% better every day. I’ve worked on projects spanning Retrieval-Augmented Generation (RAG), ML, Computer Vision, and I actively explore LLM fine-tuning, cloud computing, and Kubernetes.
 <br/><br>
-Right now, I’m refining my AgentOS project, an operating system and framework for building and running AI Agents.
+Right now, I’m building unicode, a CLI tool that aims to serve all needs of the codeonterm community. I also started my own org called theagentic.
 <br/><br>
 When I’m not immersed in debugging or building innovative solutions, you’ll likely find me at the Dojo or speed-solving puzzles—both of which fuel my drive for precision and problem-solving.
 <br/><br>
